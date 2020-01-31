@@ -1,0 +1,6 @@
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-21T07:45:45.190Z'
+}

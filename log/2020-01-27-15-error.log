@@ -1,0 +1,30 @@
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-27T09:35:14.151Z'
+}
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-27T09:38:18.029Z'
+}
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-27T09:57:22.018Z'
+}
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-27T09:59:40.840Z'
+}
+{
+  level: 'error',
+  message: 'Invalid route Called.',
+  label: 'lms',
+  timestamp: '2020-01-27T10:00:08.920Z'
+}

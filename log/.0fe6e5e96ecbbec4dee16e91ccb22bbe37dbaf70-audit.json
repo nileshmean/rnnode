@@ -1,0 +1,94 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/.0fe6e5e96ecbbec4dee16e91ccb22bbe37dbaf70-audit.json",
+    "files": [
+        {
+            "date": 1579334225984,
+            "name": "log/2020-01-18-13-error.log",
+            "hash": "18fe3a21a09d6d6d9f48050e250e467b"
+        },
+        {
+            "date": 1579338552584,
+            "name": "log/2020-01-18-14-error.log",
+            "hash": "20e2601db5c69834f1375950d1f6be22"
+        },
+        {
+            "date": 1579512003238,
+            "name": "log/2020-01-20-14-error.log",
+            "hash": "5107cf8ae4f4ddf13975e7a2a8cdb515"
+        },
+        {
+            "date": 1579512664651,
+            "name": "log/2020-01-20-15-error.log",
+            "hash": "e45060b1ca68bca20e8efefb339da22e"
+        },
+        {
+            "date": 1579592725367,
+            "name": "log/2020-01-21-13-error.log",
+            "hash": "d5ed288113b20760d9f424b0ef44e0f5"
+        },
+        {
+            "date": 1580117692184,
+            "name": "log/2020-01-27-15-error.log",
+            "hash": "622239405a68546b34900c7450a0ccc2"
+        },
+        {
+            "date": 1580121194381,
+            "name": "log/2020-01-27-16-error.log",
+            "hash": "3a2c54313c96265f66e88ad408fcd317"
+        },
+        {
+            "date": 1580124616628,
+            "name": "log/2020-01-27-17-error.log",
+            "hash": "42350e0a8664580d11c02abdd11518f1"
+        },
+        {
+            "date": 1580128202467,
+            "name": "log/2020-01-27-18-error.log",
+            "hash": "984bfaa6321f4ff5e851baccbedbd5d6"
+        },
+        {
+            "date": 1580132347261,
+            "name": "log/2020-01-27-19-error.log",
+            "hash": "f6597f4fd845eb9226f5be5a0653f19a"
+        },
+        {
+            "date": 1580189966953,
+            "name": "log/2020-01-28-11-error.log",
+            "hash": "723ea87367b59a25a21349bf051aae55"
+        },
+        {
+            "date": 1580213385676,
+            "name": "log/2020-01-28-17-error.log",
+            "hash": "0a99f9b5e9ee650a55f47e6051c52300"
+        },
+        {
+            "date": 1580383296486,
+            "name": "log/2020-01-30-16-error.log",
+            "hash": "fcfbdbd8bbd6186fc142c1d72817e2b0"
+        },
+        {
+            "date": 1580450660591,
+            "name": "log/2020-01-31-11-error.log",
+            "hash": "5e5aead522e56d6f3127831039124670"
+        },
+        {
+            "date": 1580452659531,
+            "name": "log/2020-01-31-12-error.log",
+            "hash": "7502c00c90a5a07398badc9aec55d385"
+        },
+        {
+            "date": 1580462921085,
+            "name": "log/2020-01-31-14-error.log",
+            "hash": "2f3468e0d91474628443d7ff4673944f"
+        },
+        {
+            "date": 1580470966757,
+            "name": "log/2020-01-31-17-error.log",
+            "hash": "5d72feecf183df9ca8b175615a6863f7"
+        }
+    ]
+}
